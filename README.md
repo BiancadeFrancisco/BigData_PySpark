@@ -1,4 +1,4 @@
-# BigData_PySpark_Completo
+# BigData_PySpark
 
 ## Descrição Projeto
 
